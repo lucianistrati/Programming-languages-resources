@@ -15,6 +15,7 @@ This repo contains several resources collected over the years that I've used in 
 - https://www.javatpoint.com/
 
 # SQL
+- https://www.sqltutorial.org/
 
 # R
 - https://www.statmethods.net/r-tutorial/index.html
