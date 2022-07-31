@@ -23,3 +23,4 @@ This repo contains several resources collected over the years that I've used in 
 - https://www.statmethods.net/r-tutorial/index.html
 
 # Prolog
+- https://cs.unibuc.ro/~ileustean/PL.html
