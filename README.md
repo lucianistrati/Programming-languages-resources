@@ -12,6 +12,7 @@ This repo contains several resources collected over the years that I've used in 
 - https://cplusplus.com/doc/tutorial/
 
 # Java
+- https://www.javatpoint.com/
 
 # SQL
 
