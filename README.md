@@ -4,6 +4,7 @@ This repo contains several resources collected over the years that I've used in 
 
 # All languages
 - https://www.w3schools.com/
+- https://www.programiz.com/
 
 # Python
 - https://www.python.org/
