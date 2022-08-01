@@ -6,7 +6,7 @@ This repo contains several resources collected over the years that I've used in 
 - https://www.w3schools.com/
 - https://www.programiz.com/
 - https://www.tutorialspoint.com/index.html
-- https://stackify.com/learn-c-sharp-tutorials/
+- https://stackoverflow.com/
 - https://www.codecademy.com/
 - https://www.sololearn.com/home
 - https://www.freecodecamp.org/
