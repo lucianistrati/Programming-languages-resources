@@ -22,6 +22,7 @@ This repo contains several resources collected over the years that I've used in 
 
 # SQL
 - https://www.sqltutorial.org/
+- https://www.oracle.com/database/sqldeveloper/
 
 # R
 - https://www.statmethods.net/r-tutorial/index.html
