@@ -68,6 +68,7 @@ This repo contains several resources collected over the years that I've used in 
 # C#
 - https://docs.microsoft.com/en-us/dotnet/csharp/
 - https://hackr.io/blog/how-to-learn-c-as-a-beginner
+- https://stackify.com/learn-c-sharp-tutorials/
 
 # Go
 - https://go.dev/
