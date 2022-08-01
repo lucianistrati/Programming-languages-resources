@@ -23,6 +23,7 @@ This repo contains several resources collected over the years that I've used in 
 
 # Java
 - https://www.javatpoint.com/
+- https://www.java.com/en/
 
 # SQL
 - https://www.sqltutorial.org/
