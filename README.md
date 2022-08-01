@@ -24,6 +24,7 @@ This repo contains several resources collected over the years that I've used in 
 # C/C++
 - https://cplusplus.com/doc/tutorial/
 - https://www.cprogramming.com/tutorial/c-tutorial.html
+- https://www.learn-c.org/
 
 # Java
 - https://www.javatpoint.com/
