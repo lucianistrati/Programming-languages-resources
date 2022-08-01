@@ -40,7 +40,7 @@ This repo contains several resources collected over the years that I've used in 
 # R
 - https://www.statmethods.net/r-tutorial/index.html
 - https://www.dataquest.io/blog/learn-r-for-data-science/
-- 
+- https://www.datacamp.com/blog/how-to-learn-r
 
 # Prolog
 - https://cs.unibuc.ro/~ileustean/PL.html - Romanian
