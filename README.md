@@ -42,3 +42,5 @@ This repo contains several resources collected over the years that I've used in 
 
 # Julia
 - https://docs.julialang.org
+
+# C#
