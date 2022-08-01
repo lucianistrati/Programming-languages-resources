@@ -11,6 +11,7 @@ This repo contains several resources collected over the years that I've used in 
 - https://www.freecodecamp.org/
 - https://www.udemy.com/
 - https://www.coursera.org/
+- https://www.pluralsight.com/
 
 # Python
 - https://www.python.org/
