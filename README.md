@@ -35,3 +35,4 @@ This repo contains several resources collected over the years that I've used in 
 
 # Javascript
 - https://learnjavascript.online/
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript
