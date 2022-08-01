@@ -37,4 +37,4 @@ This repo contains several resources collected over the years that I've used in 
 - https://learnjavascript.online/
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript
 - https://javascript.info/
-- 
+- https://www.learn-js.org/
