@@ -25,6 +25,7 @@ This repo contains several resources collected over the years that I've used in 
 - https://www.javatpoint.com/
 - https://www.java.com/en/
 - https://www.oracle.com/java/technologies/downloads/
+- https://dev.java/
 
 # SQL
 - https://www.sqltutorial.org/
