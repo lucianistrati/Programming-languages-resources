@@ -39,3 +39,5 @@ This repo contains several resources collected over the years that I've used in 
 - https://javascript.info/
 - https://www.learn-js.org/
 - https://learnjavascript.today/
+
+# Julia
