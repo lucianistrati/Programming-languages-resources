@@ -45,7 +45,8 @@ This repo contains several resources collected over the years that I've used in 
 # Prolog
 - https://cs.unibuc.ro/~ileustean/PL.html - Romanian
 - https://www.swi-prolog.org/
--
+- http://www.gprolog.org/
+
 # Javascript
 - https://learnjavascript.online/
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript
