@@ -18,6 +18,7 @@ This repo contains several resources collected over the years that I've used in 
 - https://www.tutorialsteacher.com/
 - https://www.guru99.com/
 - https://learnxinyminutes.com/
+- https://math.stackexchange.com/
 
 # Python
 - https://www.python.org/
