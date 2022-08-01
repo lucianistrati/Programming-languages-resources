@@ -41,3 +41,4 @@ This repo contains several resources collected over the years that I've used in 
 - https://learnjavascript.today/
 
 # Julia
+- https://docs.julialang.org
