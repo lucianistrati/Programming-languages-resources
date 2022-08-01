@@ -24,6 +24,7 @@ This repo contains several resources collected over the years that I've used in 
 - https://www.kaggle.com/learn/python
 - https://www.dataquest.io/blog/learn-python-the-right-way/
 - https://realpython.com/start-here/
+- https://docs.python-guide.org/intro/learning/
 
 # C/C++
 - https://cplusplus.com/doc/tutorial/
