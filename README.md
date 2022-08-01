@@ -6,7 +6,8 @@ This repo contains several resources collected over the years that I've used in 
 - https://www.w3schools.com/
 - https://www.programiz.com/
 - https://www.tutorialspoint.com/index.htm
-- 
+- https://www.codecademy.com/
+
 # Python
 - https://www.python.org/
 
