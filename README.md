@@ -48,3 +48,4 @@ This repo contains several resources collected over the years that I've used in 
 - https://docs.microsoft.com/en-us/dotnet/csharp/
 
 # Go
+- https://go.dev/
