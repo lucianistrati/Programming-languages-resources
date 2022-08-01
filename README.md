@@ -48,6 +48,7 @@ This repo contains several resources collected over the years that I've used in 
 
 # Julia
 - https://docs.julialang.org
+- https://julialang.org/
 
 # C#
 - https://docs.microsoft.com/en-us/dotnet/csharp/
