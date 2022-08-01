@@ -10,6 +10,7 @@ This repo contains several resources collected over the years that I've used in 
 
 # Python
 - https://www.python.org/
+- https://www.learnpython.org/
 
 # C/C++
 - https://cplusplus.com/doc/tutorial/
