@@ -34,3 +34,4 @@ This repo contains several resources collected over the years that I've used in 
 - https://cs.unibuc.ro/~ileustean/PL.html - Romanian
 
 # Javascript
+- https://learnjavascript.online/
