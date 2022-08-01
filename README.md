@@ -29,3 +29,5 @@ This repo contains several resources collected over the years that I've used in 
 
 # Prolog
 - https://cs.unibuc.ro/~ileustean/PL.html - Romanian
+
+# Javascript
