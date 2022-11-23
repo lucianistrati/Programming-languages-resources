@@ -73,3 +73,5 @@ This repo contains several resources collected over the years that I've used in 
 # Go
 - https://go.dev/
 - https://gobyexample.com/
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
